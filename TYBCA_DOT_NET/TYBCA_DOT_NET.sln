@@ -5,6 +5,10 @@ VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PracticalSlips", "PracticalSlips\PracticalSlips.vbproj", "{C8502DE0-0554-4AF2-B454-45165AC65048}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PracticalSlip1", "PracticalSlip1\PracticalSlip1.vbproj", "{B7ADDDE4-9C96-4A1F-AEAC-D83437AF45F5}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PracticalSlip_WindowsPragram", "PracticalSlip_WindowsPragram\PracticalSlip_WindowsPragram.vbproj", "{644221FE-53B1-4666-88AE-18508CA76C65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{C8502DE0-0554-4AF2-B454-45165AC65048}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8502DE0-0554-4AF2-B454-45165AC65048}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8502DE0-0554-4AF2-B454-45165AC65048}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7ADDDE4-9C96-4A1F-AEAC-D83437AF45F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7ADDDE4-9C96-4A1F-AEAC-D83437AF45F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7ADDDE4-9C96-4A1F-AEAC-D83437AF45F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7ADDDE4-9C96-4A1F-AEAC-D83437AF45F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{644221FE-53B1-4666-88AE-18508CA76C65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{644221FE-53B1-4666-88AE-18508CA76C65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{644221FE-53B1-4666-88AE-18508CA76C65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{644221FE-53B1-4666-88AE-18508CA76C65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
